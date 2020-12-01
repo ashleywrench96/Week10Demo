@@ -33,4 +33,4 @@ int main()
 ```
 
 ## Social Accounts
-You can find me at [Linked In](https://www.linkedin.com/in/ashley-wrench-86575b193/)!
+You can find me at [Linked In](https://www.linkedin.com/in/ashley-wrench/)!
