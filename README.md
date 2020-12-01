@@ -7,7 +7,8 @@ A demo to show I can make a ReadME File using MarkDown
 
 This morning, and the many days prior, I have been living on a diet of Sugar Puffs and coffee in the mornings. 
 
-## My Most Play'd Games (According to Steam, Only accounts for time spent Connected to steam servers):
+## My Most Play'd Games 
+(According to Steam, Only accounts for time spent Connected to steam servers):
 1. CSGO <sub>975 hrs</sub>
 2. Elite Dangerous <sub>154 hrs</sub>
 3. Fallout 4 <sub>91  hrs</sub>
